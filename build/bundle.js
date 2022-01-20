@@ -76,7 +76,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _ass
   \**********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _component_navbar_navbar__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./component/navbar/navbar */ \"./src/component/navbar/navbar.js\");\n/* harmony import */ var _component_cardGroup_cardGroup__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./component/cardGroup/cardGroup */ \"./src/component/cardGroup/cardGroup.js\");\n/* harmony import */ var _component_footer_footer__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./component/footer/footer */ \"./src/component/footer/footer.js\");\n// import hello from './hello world';\n// hello()\n\n\n\n// // nooo\n// import \"./style.css\"\n// import bio from \"./component/bio/bio\"\n\n//# sourceURL=webpack://try1/./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _component_navbar_navbar__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./component/navbar/navbar */ \"./src/component/navbar/navbar.js\");\n/* harmony import */ var _component_cardGroup_cardGroup__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./component/cardGroup/cardGroup */ \"./src/component/cardGroup/cardGroup.js\");\n/* harmony import */ var _component_footer_footer__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./component/footer/footer */ \"./src/component/footer/footer.js\");\n\n\n\n\n//# sourceURL=webpack://try1/./src/index.js?");
 
 /***/ }),
 
